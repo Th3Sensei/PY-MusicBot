@@ -1,9 +1,15 @@
 Installation
+
+download python from https://www.python.org/
+
 install all the requirements needed
+use this command- pip install -r requirements.txt
+
 create a discord bot with the discord dev portal (https://discord.com/developers)
 replace the token in the .env with the sentence 
-you will need to download ffmpeg and set it to the path in enviroment variables.
 
+
+you will need to download ffmpeg and set it to the path in enviroment variables.
 here is a video for fffmpeg install and to add to path https://www.youtube.com/watch?v=EyIIvctDhYc
 
 
