@@ -1,0 +1,6 @@
+Installation
+install all the requirements needed
+create a discord bot with the discord dev portal (https://discord.com/developers)
+replace the token in the .env with the sentence 
+
+use start.bat to run the bot or "python musicman.py" as a command in the same directory the script is in.
